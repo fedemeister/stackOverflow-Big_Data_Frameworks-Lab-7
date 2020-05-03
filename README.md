@@ -5,3 +5,5 @@ Spark RDD Manipulation
 - Para ver lo hecho paso a paso, abrir "StackOverflow step by step guide".
 - Para ver la entrada recibida almacenada en nuestro primer RDD, abrir "shortStackOverflow".
 - Para ver las funciones realizadas, abrir "solution".
+
+Todo el contenido excepto la solución sacado de la asignatura impartida por Adam Przybylek en Politechnika Gdanska.
